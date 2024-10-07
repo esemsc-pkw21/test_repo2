@@ -5,3 +5,4 @@ a = np.sin(np.pi/2)
 b = np.tan(30)
 print(a)
 
+print("I am no longer happy")
